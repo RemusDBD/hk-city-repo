@@ -11,4 +11,5 @@
 ![](tools/pics/overview_hk_weight_converter_gui.png)
 
 ## 字體
+ - [蘋方+Segoe UI Variable](fonts/PingFangSegUIVarHybrid.ttf)
  - [微軟正黑體+Verdana](fonts/JhengHeiVerdanaHybrid.ttf)
